@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Semana04DPAConsole.Database
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semana05DPAMVC.CodeFirst", "Semana05DPAMVC.CodeFirst\Semana05DPAMVC.CodeFirst.csproj", "{BAA37789-B101-49F7-9E94-5C25616C2527}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semana05DPAMVC.DatabaseFirst", "Semana05DPAMVC.DatabaseFirst\Semana05DPAMVC.DatabaseFirst.csproj", "{6AE73AF3-1D50-455C-85D4-1A31302B5BF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{BAA37789-B101-49F7-9E94-5C25616C2527}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAA37789-B101-49F7-9E94-5C25616C2527}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAA37789-B101-49F7-9E94-5C25616C2527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AE73AF3-1D50-455C-85D4-1A31302B5BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AE73AF3-1D50-455C-85D4-1A31302B5BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AE73AF3-1D50-455C-85D4-1A31302B5BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AE73AF3-1D50-455C-85D4-1A31302B5BF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
