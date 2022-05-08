@@ -17,5 +17,16 @@ namespace Semana04DPAConsole.CodeFirst.Models
         public string FullName { get; set; }
         [Column(TypeName = "int")]
         public int Dorsal { get; set; }
+
+        public Player()
+        {
+                
+        }
+
+        public Player(string fullName, int dorsal)
+        {            
+            this.FullName = fullName;
+            this.Dorsal = dorsal;
+        }
     }
 }
